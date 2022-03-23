@@ -1,0 +1,55 @@
+Digite o nome do funcionário -
+
+nome do funcionário - 
+
+digite a idade do funcionário -
+
+idade do funionário - 
+
+se for maior ou igual 60 anos - 
+
+apresentar plano de aposentadoria - 
+
+caso não tenha idade sucifiente -
+
+não está apto - 
+
+Digite o Estado Civil do funcionário - 
+
+Estado civil - 
+
+Digite o numero de filhos - 
+
+numero de filhos -
+
+a apatir de 1 filho -
+
+O funcionário está apto a receber auxilio familia -
+
+caso não tenha - 
+
+não está apto a receber auxilio familia -
+
+Digite o tempo de serviço do funcionário - 
+
+tempo de serviço - 
+
+caso tenha mais de 5 anos de serviço -
+
+apto para receber abono salarial -
+
+caso não tenha -
+
+não está apto a receber - 
+
+Digite o salário do funcionário - 
+
+caso receba igual ou superior a 4,300.00 - 
+
+O funcionário está apto para ganhar seguro de vida e saúde -
+
+caso não tenha - 
+
+não terá o direito a receber seguro de vida e saúde -   
+
+ 
